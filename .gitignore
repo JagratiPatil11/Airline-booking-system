@@ -1,3 +1,4 @@
 .vscode/
 .idea/
 Tickets/*.pdf
+/Main.class

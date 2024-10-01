@@ -2,9 +2,9 @@ package controllers;
 
 import java.text.ParseException;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import models.Flight;
+import models.LocalDateTime;
 import models.Passenger;
 import models.Ticket;
 import tools.Helper;
